@@ -71,5 +71,6 @@ The dashboard provides clear visibility into Tata car sales performance, custome
 ## Dashboard Screenshot
 
 ```md
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](<img width="1002" height="744" alt="Screenshot 2026-05-14 121459" src="https://github.com/user-attachments/assets/6f9f6557-33ad-4a45-8b83-f362bdf992be" />
+)
 ```
