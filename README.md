@@ -5,8 +5,9 @@ Developed an interactive dashboard using **Power BI** to analyze Tata car sales 
 
 ---
 
-## Project Resources
-- Dashboard File: `Tata_Car_Sales_Dashboard.pbix`
+## 🔗 Project Resources
+
+-  Source Code: [Open Notebook](https://drive.google.com/drive/folders/1-cAeiWcxfTJWtX5uV10UMMT4Okbvjr3u?usp=drive_link)
 
 ---
 
